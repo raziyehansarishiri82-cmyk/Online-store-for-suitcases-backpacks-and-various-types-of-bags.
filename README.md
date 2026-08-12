@@ -12,21 +12,18 @@ Search functionality
 Language toggle (Persian ↔ English) using localStorage
 Responsive design with Bootstrap 5
 SEO Implementation
-
 Comprehensive meta tag optimization (Title, Description, Canonical)
 Implementation of Open Graph and Twitter Cards
 Structured Data (Schema.org):
 Store
-Product / ItemList
+Product  ItemList
 FAQPage
 AboutPage
 ContactPage
-
 Use of semantic HTML (<main>, <section>, <article>, proper heading hierarchy)
 Accessibility improvements (ARIA, input-associated labels)
 Setting 'noindex' for login, registration, and profile pages
 Technologies
-
 PHP
 Laravel (Blade)
 MySQL
