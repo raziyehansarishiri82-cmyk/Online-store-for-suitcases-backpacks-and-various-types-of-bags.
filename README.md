@@ -1,4 +1,4 @@
-Online store for suitcases, backpacks, and various types of bags.
+2026-> Online store for suitcases, backpacks, and various types of bags.
 Description
 A comprehensive online store for selling travel luggage, backpacks, handbags, laptop bags, and pilot cases. The site features a fully RTL (right-to-left) layout and is designed to be bilingual (Persian and English).
 Features:
